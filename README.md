@@ -1,4 +1,4 @@
-1. jetson_dxl
+1. dxl_wsl
 패키지에서 publisher 노드의 기능을 수행하는 패키지를WSL2에서 작성하라.
 섭스크라이버 노드는 예제1번 패키지를 그대로 사용하라.
 + pc 는 pub_wsl, jetson은 sub 노드만 사용한다.(pc부분 sub 무시, jetson부분 pub_wsl 무시 __ 연습장)
